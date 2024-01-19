@@ -46,7 +46,7 @@ The project is implemented in C++ and incorporates various concepts, including f
 
 ## Screenshots
 ![Admin](https://imgur.com/u35WvUj)
-![User]](https://imgur.com/LeR5dnu)
+![User](https://imgur.com/LeR5dnu)
 
 
 
