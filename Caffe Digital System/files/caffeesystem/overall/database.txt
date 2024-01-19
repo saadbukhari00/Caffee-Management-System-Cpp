@@ -1,0 +1,13 @@
+ItemName Quantity Price
+Biryani 100 200
+Chai 100 80
+Chickenburger 100 200
+Coffee 100 120
+ColaNext 100 100
+Fries 100 100
+Loadedfries 100 150
+Pizza 100 150
+Pulao 100 250
+Rollparatha 100 200
+Samosa 100 30
+Zingerburger 100 250
