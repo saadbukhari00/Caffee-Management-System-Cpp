@@ -44,9 +44,5 @@ The project is implemented in C++ and incorporates various concepts, including f
 2. Compile and run the program using a C++ compiler.
 3. Follow the on-screen instructions for login and menu-driven operations.
 
-## Screenshots
-![Admin](https://imgur.com/u35WvUj)
-![User](https://imgur.com/LeR5dnu)
-
 
 
