@@ -50,7 +50,7 @@ The project is implemented in C++ and incorporates various concepts, including f
 4. For login credentials have a look at files folder and view credentials folder.
 5. Follow the on-screen instructions for login and menu-driven operations.
 
-##Note:
+## Note
 It is a final project for PF 1st semester that is why erros are expected as this is done by undergraduate student. Feel free to fix any or update any. Reach me out through my linkedin or instgaram. Ty
 
 
